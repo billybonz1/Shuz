@@ -1,0 +1,381 @@
+@import "bourbon";
+
+@media only screen and (max-width: 1199px) and (min-width: 993px) {
+
+  /*CSS  Web~Oman*/
+
+  /*CSS FONTS Web~Oman*/
+
+  /*CSS FONTS END Web~Oman*/
+
+  h2 {
+    
+
+      position: relative;
+
+  }
+    
+     [class*="blok__"] {
+  
+    height: auto !important;
+    padding-bottom:  100px;
+            min-height:  auto !important;
+		
+    }
+
+  /*CSS END Web~Oman*/
+
+
+  
+
+
+
+
+
+
+
+
+
+	.blok__01{
+		
+		figure{
+			margin-top: 0px!important;
+			width: 100%!important;
+			height: auto!important;
+			margin-bottom: 50px;
+		}
+		
+		[class*="img__n"]{
+				
+				
+				margin-left: 0px;
+				margin-right: 0px;
+			
+			span{
+					    top: 55px!important;
+				}
+			}
+		
+		[class*="box__content"]{
+			
+			h3{
+				margin-top: 35px!important;
+			}
+			
+			
+			margin-top: 0px;
+			
+			margin-bottom: 50px;
+		}
+
+		
+	} 
+	
+
+
+	
+	.blok__03{
+		
+		padding-top: 100px;
+		
+		.box_info{
+			.block__pric{
+			    width: 130px;	
+				
+				
+			}
+		} 
+		.box__post{
+			
+			
+			[class*="img__n"]{
+				overflow: hidden;
+				    margin-left: 0px;
+				margin-right: 0px;
+				
+			}
+			margin-top: 100px;
+			
+			figure{
+				 height: 507px;
+				overflow: hidden;
+				
+				    width: 100%;
+    height: auto;
+			}
+			
+			.box_bac1{
+			display: none;
+			}
+			
+			
+			&:hover .box_bac{
+				
+					    width: 100%;
+   display: block;
+				
+			}
+			
+			
+		}
+		
+}
+	
+	
+	
+	
+.blok__04{
+	
+	.box_content__1{
+		padding-top: 100px;
+		.box__content__info{
+			z-index: 7;
+			position: relative;
+		}
+	}
+	
+	
+}
+	
+	
+	
+.blok__05{
+	text-align: center;
+background: #F8D580;
+	
+	.box_content__1{
+		
+		background: #F8D580;
+		
+		padding-bottom: 100px;
+		
+		padding-top: 0px;
+			height: auto;
+		
+		figure{
+			margin: 100px auto 50px auto;
+		}
+		
+		.box__widt,.box__text{
+			
+			display: none;
+
+		}
+		
+		.box__content__info{
+			.box__h{
+				width: 100%;
+				margin-left: 0px;
+				margin-right: 0px;
+			}
+			
+		.box__line {
+    margin-right: auto;
+			margin-left: auto;
+    float: none;
+    width: 75px;
+    height: 62px;
+    display: block;
+
+}
+			
+			.info{
+				margin-left: 0px;
+				margin-right: 0px;
+			}
+		}
+		
+	}
+	
+	
+	
+	
+}
+	
+	
+	
+	
+	
+.blok__06{
+		
+		padding-top: 100px;
+		
+		.box_info{
+			.block__pric{
+			    width: 130px;	
+				
+				
+			}
+		} 
+		.box__post{
+			
+			
+			[class*="img__n"]{
+				overflow: hidden;
+				    margin-left: 0px;
+				margin-right: 0px;
+				
+			}
+			margin-top: 100px;
+			
+			figure{
+				 height: 507px;
+				overflow: hidden;
+				
+				    width: 100%;
+    height: auto;
+			}
+			
+			.box_bac1{
+			display: none;
+			}
+			
+			
+			&:hover .box_bac{
+				
+					    width: 100%;
+   display: block;
+				
+			}
+			
+			
+		}
+		
+}	
+	
+	
+	
+.blok__07{
+		
+		padding-top: 100px;
+		
+	.title{
+		br{
+			display: none;
+		}
+	}
+	
+	.box_text_day{
+		.box__day{
+			
+			z-index: 11;
+			position: relative;
+			.day{
+				
+				
+				
+			}
+			
+		}
+		
+	} 
+		
+}
+	
+	
+.blok__08{
+		
+		margin-top: 100px;
+		
+		
+	.box__content{
+
+		margin-left: -200px;
+	}
+		
+	.box__img {
+    margin-left: 195px;
+
+	}
+		
+		
+		
+	}	
+	
+	
+	
+	.blok__09{
+		
+		padding: 0px;
+		
+		h2{
+			margin-top: 0px!important;
+		}
+	
+		
+		
+	}	
+	
+	
+	
+	
+	
+	
+   /* --------------------footer ---------------*/ 
+    
+  
+    
+.section_footer{
+	
+	    min-height: 83px;
+	
+	 .box__ul ul li a{
+		font-size: .8em;
+	}
+	
+	.box__link__info{
+		
+	
+		
+		.to__adrres,.to__phone,.to__mel,.to__skype{
+			font-size: .8em;
+	
+		}
+	}
+	
+	
+	
+	
+	
+	}
+    
+    
+  /* -------------------- END footer ---------------*/     
+  
+    
+    
+    
+ /* -------------------- MODAL ---------------*/     
+    
+    
+
+
+
+    
+    .mod__doz{
+        
+        .titlebox{
+           
+            
+            h2{
+              text-align: center;   
+            }
+            
+            p{
+               text-align: center;  
+                
+            }
+        }
+        
+    }
+    .md_large .md_content{
+        
+            max-height: 300px;
+    }  
+    .md_large .titlebox h2{
+
+    }
+      /* -------------------- END MODAL ---------------*/     
+
+} /* END 992px  */
+

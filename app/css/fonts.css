@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "HelveticaNeueCyr-Black";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/HelveticaNeueCyr-Black/HelveticaNeueCyr-Black.woff2") format("woff2"), url("../fonts/HelveticaNeueCyr-Black/HelveticaNeueCyr-Black.woff") format("woff"), url("../fonts/HelveticaNeueCyr-Black/HelveticaNeueCyr-Black.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "HelveticaNeueCyr-Light";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.woff2") format("woff2"), url("../fonts/HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.woff") format("woff"), url("../fonts/HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "HelveticaNeueCyr-Roman";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.woff2") format("woff2"), url("../fonts/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.woff") format("woff"), url("../fonts/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "MuseoSansCyrl-300";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.woff2") format("woff2"), url("../fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.woff") format("woff"), url("../fonts/MuseoSansCyrl-300/MuseoSansCyrl-300.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "MuseoSansCyrl-700";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/MuseoSansCyrl-700/MuseoSansCyrl-700.woff2") format("woff2"), url("../fonts/MuseoSansCyrl-700/MuseoSansCyrl-700.woff") format("woff"), url("../fonts/MuseoSansCyrl-700/MuseoSansCyrl-700.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "MuseoSansCyrl-900";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/MuseoSansCyrl-900/MuseoSansCyrl-900.woff2") format("woff2"), url("../fonts/MuseoSansCyrl-900/MuseoSansCyrl-900.woff") format("woff"), url("../fonts/MuseoSansCyrl-900/MuseoSansCyrl-900.ttf") format("truetype"); }
